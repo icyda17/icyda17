@@ -3,7 +3,7 @@
 
 * 💻 I code using Python
 * 🌱 I’m currently studying ML and NLP.
-* 🗣 I’m also the student leader at Bertelmanns Scholarship Programme
+* 🗣 I’m also studying MBA.
 * 👯 I'm also open for collaborations related to project/community.
 * 📫 More about me: __________
 * 😄 Pronouns: She/Her
